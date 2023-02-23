@@ -204,8 +204,16 @@ footer button{
         
     }
 
+    nav ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
     nav ul li a{
         font-size: 12px;
+        text-align: center;
     }
 
     .logo-image{
